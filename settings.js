@@ -36,8 +36,8 @@ global.footer = 'AnjasMaraXD' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/'
 global.ig = 'https://instagram.com/'
 global.mygc = 'https://chat.whatsapp.com/'
-global.myweb = 'https://njaspedia.cf/'
-global.email = 'anjas.com'
+global.myweb = 'https://xnxx.com'
+global.email = 'anjasnovixd@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
